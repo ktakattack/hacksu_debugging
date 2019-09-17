@@ -1,0 +1,9 @@
+WHAT I WISH I HAD BEEN TOLD IN CSI:
+Take time in the beginning to set yourself up by:
+    -make sure you understand the prompt
+    -pseudocode what you're trying to do
+    -download linters (if applicable)
+    -set up source control FOR EVERY PROJECT
+    -commit to GitHub often with small, successes and detailed commit messages
+
+
