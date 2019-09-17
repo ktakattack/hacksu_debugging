@@ -7,3 +7,17 @@ Take time in the beginning to set yourself up by:
     -commit to GitHub often with small, successes and detailed commit messages
 
 
+-Google, StackOverflow, C++ Reference, GeeksforGeeks.com, W3, LinkedIn Learning, YouTube, Code Academy, Khan
+-print statements
+-break points
+-draw it out
+-write out code w/ a pencil
+-talk out loud (rubber duck debugging)
+-reading line-by-line
+-trash it and start over
+-people :)
+-tutoring
+-step-away for a short break
+-semi-colons
+-error message 
+-understanding the bigger picture of code fundamentals
